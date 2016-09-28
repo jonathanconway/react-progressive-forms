@@ -4,10 +4,15 @@ This a small example of how you might go about building progressively-enhanced f
 
 ## Installation
 
-```git clone https://github.com/jonathanconway/react-progressive-forms
+
+```sh
+git clone https://github.com/jonathanconway/react-progressive-forms
 cd react-progressive-forms
-npm install```
+npm install
+```
 
 Then you can run it:
 
-`npm start`
+```sh
+npm start
+```
