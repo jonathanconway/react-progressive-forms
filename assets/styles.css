@@ -1,0 +1,37 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 30em;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+p, label {
+  font-weight: 200;
+}
+
+input {
+  border: solid 1px #cccccc;
+  margin: 0.5em 0;
+  font-size: 1.2em;
+  display: block;
+}
+
+a {
+  color: blue;
+}
+
+button[type=submit] {
+  font-size: 1.2em;
+  padding: 0.2em;
+  float: right;
+}
+
+.error, .errors, .errors a {
+  color: red;
+}
+
+.error {
+  margin-bottom: 2em;
+}

@@ -1,0 +1,9 @@
+@import "../../../../node_modules/gov-au-ui-kit/assets/sass/_colours.scss";
+
+.errors, .errors a, .error {
+  color: $error-colour;
+}
+
+.errors li {
+  font-size: rem(16);
+}
