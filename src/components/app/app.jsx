@@ -7,7 +7,7 @@ import Login from '../login/login.jsx';
 import LoggedIn from '../loggedIn/loggedIn.jsx';
 
 /**
- * Wraps the entire IDP application and defines the top-level components,
+ * Wraps the entire application and defines the top-level components,
  * which are routed to URL paths.
  */
 class App extends React.Component {
