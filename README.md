@@ -19,4 +19,4 @@ npm start
 
 ## Related resources you may find useful
 
-* (Erik Rasmussen | Abstracting Form State with Redux Form)[https://www.youtube.com/watch?v=eDTi7lYR1VU]
+* [Erik Rasmussen | Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
